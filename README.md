@@ -1,6 +1,7 @@
 # Big Data Architecture for Real-Time Air Quality Monitoring in Brooklyn, New York
 
 **Course:** COM579001P6 – Big Data Processing
+
 **University:** BINUS University Alam Sutera
 
 ## Project Summary

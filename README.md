@@ -9,7 +9,7 @@ Urban air pollution is a major public health concern. This project implements a 
 
 ## Dataset
 * **Source:** [Kaggle - Air Quality Data in Brooklyn, NY (OpenAQ 2025)](https://www.kaggle.com/datasets/aidenl25/air-quality-data-in-brooklyn-ny-openaq-2025)
-* **Description:** Contains hourly PM 2.5 measurements, timestamps, geographic coordinates, and station metadata from various monitoring sensors[cite: 2, 3].
+* **Description:** Contains hourly PM 2.5 measurements, timestamps, geographic coordinates, and station metadata from various monitoring sensors.
 
 ## Big Data Architecture
 The proposed architecture uses a layered approach designed for deployment on a **Public Cloud** (Google Cloud Platform):

@@ -1,0 +1,5 @@
+station_id,station_name,latitude,longitude,sensor_type,source
+3041962,"	Near Bay 50 St",40.5887458,-73.9838231,"	
+Air sensor stationary",OpenAQ
+648,Bklyn - PS 314,40.641819,-74.018707,"	
+Reference grade stationary",OpenAQ

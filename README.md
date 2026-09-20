@@ -32,3 +32,7 @@ An interactive dashboard was created using **Tableau** to present data in an eas
 * **PM 2.5 Changes Over Time:** Identifying daily pollution peaks and air quality fluctuations.
 * **Daily Average PM 2.5:** Analysis shows that day 5 and day 6 have the highest pollution levels, falling into the "Moderate" and "Unhealthy" categories.
 * **Pollution Category Distribution:** Although the majority of the data indicates "Good" air quality, the system is capable of detecting anomalies during specific hours.
+
+## Project Preview
+
+![Dashboard Preview](dashboard.png)
